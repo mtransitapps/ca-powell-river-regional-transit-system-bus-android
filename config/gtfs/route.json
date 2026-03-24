@@ -1,0 +1,50 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "route_id_cleanup_regex": "\\-[A-Z]+$",
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "1",
+            "color": "17468B"
+        },
+        {
+            "route_short_name": "2",
+            "color": "80CC28"
+        },
+        {
+            "route_short_name": "3",
+            "color": "ED0790"
+        },
+        {
+            "route_short_name": "9",
+            "color": "F298C1"
+        },
+        {
+            "route_short_name": "12",
+            "color": "00ADEF"
+        },
+        {
+            "route_short_name": "13",
+            "color": "A32B9B"
+        },
+        {
+            "route_short_name": "14",
+            "color": "FBBD09"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "^.+- ",
+            "ignore_case": true
+        },
+        {
+            "regex": "-$",
+            "ignore_case": true
+        }
+    ]
+}

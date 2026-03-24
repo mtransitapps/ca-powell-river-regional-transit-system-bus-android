@@ -1,0 +1,9 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "34B233",
+    "default_color_comment": "GREEN (from PDF Corporate Graphic Standards)",
+    "default_color_secondary": "002C77",
+    "default_color_secondary_comment": "BLUE (from PDF Corporate Graphic Standards)",
+    "default_agency_color_enabled": true,
+    "default_strings_cleaner_enabled": true
+}
